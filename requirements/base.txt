@@ -1,0 +1,2 @@
+django-oscar-api==3.2.0
+sorl-thumbnail==12.9.0
