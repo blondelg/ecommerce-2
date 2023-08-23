@@ -1,2 +1,4 @@
 django-oscar-api==3.2.0
 sorl-thumbnail==12.9.0
+django-environ==0.10.0
+psycopg2==2.9.7
